@@ -1,1 +1,1 @@
-# Average-of-3-Numbers-
+# Average-of-3-Numbers
